@@ -6,6 +6,10 @@
     <RootNamespace>_1BasicDrawing</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<TargetFramework>net9.0</TargetFramework>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+	<PlatformCompatibilityIgnoreWarnings>CA1416</PlatformCompatibilityIgnoreWarnings>
   </PropertyGroup>
   <ItemGroup>
   <Reference Include="BOOSE">
