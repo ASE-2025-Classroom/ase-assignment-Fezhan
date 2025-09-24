@@ -1,0 +1,3 @@
+[submodule "BOOSE-Docs"]
+	path = BOOSE-Docs
+	url = git@github.com:dmullier/BOOSE-Docs.git
