@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrHrlXeLDUk=",
+  "success": true,
+  "projectFilePath": "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/1BasicDrawing/1BasicDrawing.csproj",
+  "expectedPackageFiles": [
+    "/home/handesh/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
