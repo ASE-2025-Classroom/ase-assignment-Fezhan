@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/1BasicDrawing/1BasicDrawing.csproj": {}
+    "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/6addYourProgramsHere/1BasicDrawing.csproj": {}
   },
   "projects": {
-    "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/1BasicDrawing/1BasicDrawing.csproj": {
+    "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/6addYourProgramsHere/1BasicDrawing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/1BasicDrawing/1BasicDrawing.csproj",
+        "projectUniqueName": "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/6addYourProgramsHere/1BasicDrawing.csproj",
         "projectName": "1BasicDrawing",
-        "projectPath": "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/1BasicDrawing/1BasicDrawing.csproj",
+        "projectPath": "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/6addYourProgramsHere/1BasicDrawing.csproj",
         "packagesPath": "/home/handesh/.nuget/packages/",
-        "outputPath": "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/1BasicDrawing/obj/",
+        "outputPath": "/home/handesh/Documents/Uni/ASE/ASE-Assignment/BOOSEexamplePrograms/6addYourProgramsHere/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/handesh/.nuget/NuGet/NuGet.Config"
